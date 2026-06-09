@@ -85,7 +85,6 @@ export const translations = {
     phone: "+57 311 279 2964",
     email: "harrisonarroyaveg@gmail.com",
     linkedin: "LinkedIn",
-    github: "GitHub",
   },
   en: {
     // Header
@@ -173,6 +172,5 @@ export const translations = {
     phone: "+57 311 279 2964",
     email: "harrisonarroyaveg@gmail.com",
     linkedin: "LinkedIn",
-    github: "GitHub",
   }
 };
