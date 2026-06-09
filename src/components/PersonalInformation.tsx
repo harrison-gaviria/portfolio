@@ -23,6 +23,11 @@ const Contact: React.FC = () => {
       icon: ExternalLink,
       label: t.linkedin,
       link: 'https://www.linkedin.com/in/harrison-alonso-arroyave-gaviria-4ba07b358'
+    },
+    {
+      icon: ExternalLink,
+      label: t.github,
+      link: 'https://github.com/harrison-gaviria'
     }
   ];
 
