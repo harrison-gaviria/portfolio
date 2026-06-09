@@ -2,8 +2,8 @@ import { Certification } from 'src/types';
 
 export const getCertifications = (language: 'es' | 'en'): Certification[] => [
   {
-    name: "AWS Academy Cloud Foundations",
-    url: "https://www.credly.com/badges/328b759c-a5a0-4463-b5fe-5f5dabb08ba0/public_url",
+    name: "AWS Certified Cloud Practitioner",
+    url: "https://www.credly.com/badges/5d1fb473-8900-4051-8852-09af694e496d/linked_in_profile",
     year: "2025"
   },
   {
