@@ -26,7 +26,7 @@ const Contact: React.FC = () => {
     },
     {
       icon: ExternalLink,
-      label: t.github,
+      label: "GitHub",
       link: 'https://github.com/harrison-gaviria'
     }
   ];
