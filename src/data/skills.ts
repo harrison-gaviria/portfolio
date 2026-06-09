@@ -5,5 +5,5 @@ export const skillsData = {
     databases: ["MongoDB", "MariaDB (básico)", "MySQL (básico)", "PostgreSQL (básico)", "Redis"],
     devops: ["Docker", "Docker-Compose", "Kubernetes", "k3s", "Ansible (básico)", "Python scripting"],
     cloud: ["AWS EC2", "AWS S3", "AWS Lambda"],
-    ai: ["Rasa", "Flowise", "LLMs", "Machine Learning", "Neural Networks"]
+    ai: ["Rasa", "Flowise", "LLMs", "Machine Learning", "Neural Networks", "N8N"]
 };
