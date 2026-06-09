@@ -13,8 +13,8 @@ export const translations = {
     
     // Profile Section
     profileTitle: "Perfil Profesional",
-    profileDescription: "Tecnólogo en Desarrollo de Software y estudiante de noveno semestre de Ingeniería de Sistemas en el Instituto Tecnológico Metropolitano. Cuento con 3 años de experiencia en desarrollo de software, con énfasis en aplicaciones web (frontend y backend), automatización con Python y despliegue en entornos Docker y Kubernetes.",
-    profileDescription2: "He desarrollado soluciones web responsivas, de escritorio y chatbots utilizando tecnologías como Rasa y Flowise. Me caracterizo por mi capacidad analítica, compromiso con la calidad del código, trabajo en equipo y orientación a resultados. Busco aportar soluciones innovadoras, eficientes y escalables que generen valor a las organizaciones.",
+    profileDescription: "Ingeniero de Sistemas del Instituto Tecnológico Metropolitano con 4 años de experiencia en desarrollo de software, especializado en el desarrollo de aplicaciones web (frontend y backend), diseño e implementación de APIs, automatización de procesos y despliegue de soluciones en entornos Docker y Kubernetes. Experiencia en la construcción de sistemas seguros, escalables y de alto rendimiento que contribuyen al crecimiento del negocio y a la eficiencia operativa.",
+    profileDescription2: "He diseñado y desarrollado aplicaciones web y de escritorio, integrado APIs, automatizado procesos de negocio y construido soluciones de IA conversacional utilizando tecnologías como Python, FastAPI, Django, Rasa, N8N y Flowise. Me caracterizo por mi capacidad analítica, compromiso con la calidad del código, trabajo colaborativo y orientación a resultados, con un enfoque en la creación de soluciones innovadoras, eficientes y mantenibles que generen valor para las organizaciones.",
     
     // Experience
     experienceTitle: "Experiencia Profesional",
@@ -100,8 +100,8 @@ export const translations = {
     
     // Profile Section
     profileTitle: "Professional Profile",
-    profileDescription: "Software Development Technologist and ninth-semester Systems Engineering student at Instituto Tecnológico Metropolitano. I have 3 years of experience in software development, focusing on web applications (both frontend and backend), Python automation, and deployment in Docker and Kubernetes environments.",
-    profileDescription2: "I have developed responsive web solutions, desktop applications, and chatbots using technologies such as Rasa and Flowise. I am known for my analytical skills, commitment to code quality, teamwork, and results orientation. I aim to contribute innovative, efficient, and scalable solutions that bring value to organizations.",
+    profileDescription: "Systems Engineer from Instituto Tecnológico Metropolitano with 4 years of experience in software development, specializing in web application development (frontend and backend), API design and implementation, process automation, and solution deployment in Docker and Kubernetes environments. Experienced in building secure, scalable, and high-performance systems that support business growth and operational efficiency.",
+    profileDescription2: "I have designed and developed web and desktop applications, integrated APIs, automated business processes, and built conversational AI solutions using technologies such as Python, FastAPI, Django, Rasa, N8N, and Flowise. I am recognized for my strong analytical skills, commitment to code quality, collaborative mindset, and results-driven approach, with a focus on delivering innovative, efficient, and maintainable solutions that create measurable value for organizations.",
     
     // Experience
     experienceTitle: "Professional Experience",
